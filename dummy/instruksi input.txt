@@ -1,0 +1,10 @@
+12 // jumlah data yang diinputkan
+100
+100
+100
+100
+100
+100  // ini UTS
+100 // ini UAS
+ini nama
+ini mata kuliah
